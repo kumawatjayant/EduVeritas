@@ -271,7 +271,8 @@ The project now feels like a full SaaS MVP. Journey from scratch to feature-rich
 
 # 🖼️ Sample Screenshot
 
-*(Sidebar reference, e.g. Dashboard, Enquiry, Students, Users, Courses, Fee, Attendance, etc. See image attached to this repo)*
+<img width="1907" height="916" alt="image" src="https://github.com/user-attachments/assets/ff1ac3cb-3113-491f-bb4b-40de7221c42f" />
+
 
 ---
 
